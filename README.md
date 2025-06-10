@@ -1,31 +1,23 @@
 # 👋 Hi, I'm RIS (R1S-dev)
 
-I'm a passionate web & app developer who loves building things that are both useful and visually appealing.
+Creative and detail-oriented web & app developer focused on building robust, user-friendly, and visually appealing solutions.
 
 ---
 
 ## 💻 Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript, React  
-- **Styling:** Tailwind CSS (I really enjoy it!)
-- **Backend:** PHP  
-- **Mobile:** Currently learning Java & Android Studio
-
----
-
-## 🚀 About Me
-
-- I love building clean, intuitive UIs and turning ideas into functional code.
-- Always curious and eager to learn — currently exploring Java and Android development.
-- I enjoy experimenting with new tools and frameworks, especially when it comes to design (Tailwind FTW!).
-- Open for collaboration on interesting web and mobile projects.
+- **Styling:** Tailwind CSS  
+- **Backend:** PHP, Node.js  
+- **Mobile:** Java, Kotlin, Android Studio
 
 ---
 
 ## 🛠️ Featured Projects
 
-- [planer-android-app](https://github.com/R1S-dev/planer-android-app): Simple Android planner to manage tasks and daily obligations.
+- [planer-android-app](https://github.com/R1S-dev/planer-android-app): Android application for efficient task and daily organization. Intuitive UI, local data storage, and full-feature task management.
+- [Fast-Food-Jankovic](https://github.com/R1S-dev/Fast-Food-Jankovic): Full-stack fast food ordering app with a modern frontend (React, Tailwind CSS) and a powerful backend (Node.js, PHP). Designed for seamless ordering and management experience.
 
 ---
 
-> "Code is a superpower. Let’s build something epic."
+> Striving for code quality, performance, and outstanding user experience in every project.
